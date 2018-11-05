@@ -1,0 +1,20 @@
+import { Image } from 'mdx-deck'
+import { dark } from 'mdx-deck/themes'
+import codeSurfer from 'prism-react-renderer/themes/nightOwl'
+export { components } from 'mdx-deck-code-surfer'
+export const theme = {
+  ...dark,
+  codeSurfer,
+  monospace: 'Dank Mono',
+  colors: {
+    text: 'rgb(214, 222, 235)',
+    code: 'rgb(130, 170, 255)',
+    background: 'rgb(1, 22, 39)',
+  },
+}
+
+<Image src={require("file-loader!./cover.png")} />
+
+---
+
+`code`
