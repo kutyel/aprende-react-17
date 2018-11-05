@@ -4,11 +4,12 @@
 
 Starter files for my _new_ React Workshop! 🚀
 
-TODO:
-[x] - Fragments
-[x] - componentDidCatch
-[ ] - Suspense
-[ ] - Context API
-[ ] - Render Props?
-[ ] - Higher Order Components?
-[ ] - React hooks
+### TODO:
+
+- [x] Fragments
+- [x] componentDidCatch
+- [ ] Suspense
+- [ ] Context API
+- [ ] Render Props?
+- [ ] Higher Order Components?
+- [ ] React hooks
